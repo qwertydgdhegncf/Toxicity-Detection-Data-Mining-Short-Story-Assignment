@@ -39,7 +39,7 @@ Published on Medium — a fully human-written summary focusing on architecture, 
 ## 📊 Presentation Deck  
 A 6-slide PowerPoint deck summarizing the research, models, and findings — created for classroom presentation or upload to Slideshare.  
 
-📈 [View Slides](https://slideshare.net/placeholder-link)  
+📈 [View Slides](https://www.slideshare.net/slideshow/toxicity_detection_presentation_sid-pptx/284160144)  
 *(Replace with your actual Slideshare URL or add `Presentation.pptx` in this repo.)*
 
 ---
@@ -67,7 +67,7 @@ This project demonstrates the following data-mining and machine-learning princip
 |--------------|-------------|------|
 | 📰 Medium Article | Human-written summary and reflections | [Medium Link](https://medium.com/@siddharthrao.kartik/can-ai-keep-online-gaming-civil-how-machines-learn-to-detect-toxicity-and-what-it-says-about-us-fc302a102af5) |
 | 🎬 Video Script | Narration text for the presentation | [Video Script](Video_Script.pdf) |
-| 📊 PPT Presentation | Slide deck for video/slideshare | [Presentation.pptx](Presentation.pptx) |
+| 📊 PPT Presentation | Slide deck for video/slideshare | [Presentation.pptx](https://www.slideshare.net/slideshow/toxicity_detection_presentation_sid-pptx/284160144) |
 | 📘 README | Full project documentation | [README.md](README.md) |
 
 ---
