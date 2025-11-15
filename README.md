@@ -22,7 +22,7 @@ It compares traditional ML, fine-tuned transformers, and zero-shot LLM approache
 **Title:** *Can AI Keep Online Gaming Civil? How Machines Learn to Detect Toxicity*  
 Published on Medium — a fully human-written summary focusing on architecture, models, and results.  
 
-🔗 [Read on Medium]([https://medium.com/placeholder-link](https://medium.com/@siddharthrao.kartik/can-ai-keep-online-gaming-civil-how-machines-learn-to-detect-toxicity-and-what-it-says-about-us-fc302a102af5))  
+🔗 [Read on Medium](https://medium.com/@siddharthrao.kartik/can-ai-keep-online-gaming-civil-how-machines-learn-to-detect-toxicity-and-what-it-says-about-us-fc302a102af5))  
 *(Replace with your actual Medium article URL once published.)*
 
 ---
