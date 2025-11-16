@@ -66,7 +66,6 @@ This project demonstrates the following data-mining and machine-learning princip
 | Deliverable | Description | Link |
 |--------------|-------------|------|
 | 📰 Medium Article | Human-written summary and reflections | [Medium Link](https://medium.com/@siddharthrao.kartik/can-ai-keep-online-gaming-civil-how-machines-learn-to-detect-toxicity-and-what-it-says-about-us-fc302a102af5) |
-| 🎬 Video Script | Narration text for the presentation | [Video Script](Video_Script.pdf) |
 | 📊 PPT Presentation | Slide deck for video/slideshare | [Presentation.pptx](https://www.slideshare.net/slideshow/toxicity_detection_presentation_sid-pptx/284160144) |
 | 📘 README | Full project documentation | [README.md](README.md) |
 
@@ -80,7 +79,7 @@ Understanding linguistic patterns and toxicity detection helps build safer and f
 
 ### 📅 Submission Info  
 **Course:** CMPE 255 – Data Mining  
-**Instructor:** *[Instructor Name]*  
+**Instructor:** Prof Vijay Eranti  
 **Student:** Siddharth Rao Kartik  
 **Date:** Fall 2025  
 
