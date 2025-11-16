@@ -31,7 +31,7 @@ Published on Medium — a fully human-written summary focusing on architecture, 
 **Duration:** 10–12 minutes  
 **Content:** Overview of motivation, model comparison, results, ethical implications, and personal insights.  
 
-🎥 [Watch the Presentation](https://youtube.com/placeholder-link)  
+🎥 [Watch the Presentation](https://youtu.be/fEnSE2tzNoM)  
 *(Replace with your actual video URL or Slideshare link.)*
 
 ---
